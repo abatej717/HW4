@@ -1,0 +1,101 @@
+body{
+
+background:
+
+}
+
+html {
+
+background: url(http://previews.123rf.com/images/alexanderze/alexanderze1410/alexanderze141000002/32620114-Hamburger-seamless-pattern-over-light-green-background-Stock-Vector.jpg) no-repeat center center fixed;
+
+-webkit-background-size: cover;
+
+-moz-background-size: cover;
+
+-o-background-size: cover;
+
+background-size: cover;
+
+}
+
+.container{
+
+width: 1025px;
+
+margin: 0 auto;
+
+border: solid 1px black;
+
+text-align: center;
+
+color: black;
+
+clear: both;
+
+}
+
+.view{
+
+border: solid 1px black;
+
+width: 200px;
+
+height: 350px;
+
+margin: 0 auto;
+
+float: right;
+
+text-align: center;
+
+color: black;
+
+clear: both;
+
+}
+
+.burger{
+
+border: solid 1px black;
+
+width: 200px;
+
+height: 350px;
+
+margin: 0 auto;
+
+float: left;
+
+text-align: center;
+
+color: black;
+
+clear: both;
+
+}
+
+.image{
+
+width: 25%;
+
+height: 25%;
+
+float: left;
+
+clear: both;
+
+}
+
+.img{
+
+position: relative;;
+
+top: 600x;
+
+left: 300px;
+
+width: 100%;
+
+height: 100%;
+
+} 
